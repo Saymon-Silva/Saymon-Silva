@@ -1,6 +1,6 @@
 # Olá! Eu sou o Saymon Silva
 
-<div align="center">
+<div align="center";style="display: inline_block">
   <img src="https://github-readme-stats.vercel.app/api?username=Saymon-Silva&show_icons=true&theme=radical" height="200"  >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saymon-Silva&layout=compact&theme=radical" height="200"  >
 </div>
