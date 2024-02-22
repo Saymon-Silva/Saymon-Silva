@@ -1,8 +1,12 @@
 # Olá! Eu sou o Saymon Silva
-<div style="display: flex; height:400px;">
-![Saymon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saymon-Silva&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saymon-Silva&layout=compact&theme=radical)
-</div>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Saymon-Silva&show_icons=true&theme=radical" height="200"  >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saymon-Silva&layout=compact&theme=radical" height="200"  >
+
+
+
+
 
 
 ## Tecnologias que eu uso no meu dia
